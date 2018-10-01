@@ -1,0 +1,28 @@
+create react app
+https://github.com/facebook/create-react-app
+
+>npm install -g create-react-app -g
+
+>create-react-app PROJECT_NAME
+>npm start
+
+radium
+>npm install --save radium
+
+css module
+>npm run eject
+
+webpack.js
+options: {
+  importLoaders: 1,
+  modules:true,
+  localIdentName:'[name]__[local]__[hash:base64:5]'
+},
+
+
+prop-types
+>npm install --save prop-types
+
+
+google for it
+react developer tools
