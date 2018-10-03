@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Aux from '../../hoc/Aux1';
+import Aux from '../../hoc/Aux1/Aux1';
 import Burger from '../../components/Burger/Burger';
 import BuildControls from '../../components/Burger/BuildControls/BuildControls';
 import Modal from '../../components/UI/Modal/Modal';
@@ -37,6 +37,14 @@ class BurgerBuilder extends Component {
 
   purchaseHandler = () => {
     this.setState({purchasing: true})
+  };
+
+  purchaseCancelHandler = () => {
+    this.setState({purchasing: false})
+  };
+
+  purchaseContinueHandler = () => {
+    alert('continue');
   };
 
   //添加
@@ -96,8 +104,11 @@ class BurgerBuilder extends Component {
 
     return (
         <Aux>
-          <Modal show={this.state.purchasing}>
-            <OrderSummary ingredients={this.state.ingredients}/>
+          <Modal show={this.state.purchasing} modalClosed={this.purchaseCancelHandler}>
+            <OrderSummary ingredients={this.state.ingredients}
+                          price={this.state.totalPrice}
+                          purchaseCancelled={this.purchaseCancelHandler}
+                          purchaseContinued={this.purchaseContinueHandler}/>
           </Modal>
           <Burger ingredients={this.state.ingredients}/>
           <BuildControls ingredientAdded={this.addIngredientHandler}
