@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8552f438-ef43-412d-b14c-0d744bf1ac37" name="Default Changelist" comment="">
+    <list default="true" id="8552f438-ef43-412d-b14c-0d744bf1ac37" name="Default Changelist" comment="12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/说明.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -87,7 +86,7 @@
         <counts>
           <entry key="css" value="15" />
           <entry key="gitignore" value="1" />
-          <entry key="js" value="15" />
+          <entry key="js" value="18" />
           <entry key="json" value="4" />
           <entry key="txt" value="1" />
         </counts>
@@ -96,7 +95,7 @@
         <counts>
           <entry key="CSS" value="15" />
           <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="15" />
+          <entry key="JavaScript" value="18" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -104,44 +103,20 @@
         <counts>
           <entry key="css" value="951" />
           <entry key="js" value="2793" />
-          <entry key="txt" value="32" />
+          <entry key="txt" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="951" />
           <entry key="JavaScript" value="2793" />
-          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="PLAIN_TEXT" value="34" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/说明.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch09/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch09/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -247,9 +222,9 @@
       <path value="$PROJECT_DIR$/ch09/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="645" />
-    <option name="y" value="71" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="189" />
+    <option name="y" value="25" />
     <option name="width" value="1119" />
     <option name="height" value="671" />
   </component>
@@ -331,17 +306,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Less" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\www\__test\udemy_react\ch08 project\src\assets\images" />
-      <recent name="E:\www\__test\Udemy React\ch08 project\src\components\Burger\BurgerIngredient" />
-      <recent name="E:\www\__test\Udemy React\ch06\src\hoc" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\www\__test\udemy_react\ch08 project\src\hoc\Aux1" />
       <recent name="E:\www\__test\udemy_react\ch08 project\src\hoc" />
       <recent name="E:\www\__test\Udemy React\ch08 project\src" />
       <recent name="E:\www\__test\Udemy React\ch06\src\containers" />
       <recent name="E:\www\__test\Udemy React\ch06\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\www\__test\udemy_react\ch09" />
+      <recent name="E:\www\__test\udemy_react\ch08 project\src\assets\images" />
+      <recent name="E:\www\__test\Udemy React\ch08 project\src\components\Burger\BurgerIngredient" />
+      <recent name="E:\www\__test\Udemy React\ch06\src\hoc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -382,12 +358,20 @@
       <workItem from="1537836802702" duration="777000" />
       <workItem from="1538359020236" duration="4730000" />
       <workItem from="1538524942240" duration="8964000" />
-      <workItem from="1538555503094" duration="1492000" />
+      <workItem from="1538555503094" duration="1735000" />
     </task>
+    <task id="LOCAL-00001" summary="12">
+      <created>1538557788978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538557788978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54437000" />
+    <option name="totallyTimeSpent" value="54680000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,12 +383,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="384" y="3" width="1119" height="671" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32931355" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32994923" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -414,7 +398,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32994923" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.28764805" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.37451738" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3282572" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,28 +456,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch06/src/hoc/Aux1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch06/src/containers/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch08 project/src/hoc/Aux1/Aux1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch08 project/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -797,22 +764,39 @@
         <state relative-caret-position="-594" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch09/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="468">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/components/NewPost/NewPost.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/components/Post/Post.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/说明.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="25" />
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch09/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
