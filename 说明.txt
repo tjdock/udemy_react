@@ -29,3 +29,6 @@ react developer tools
 
 Http
 >npm install axios --save
+
+Router (react-router可以不用安装)
+>npm install --save react-router react-router-dom
