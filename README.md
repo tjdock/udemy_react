@@ -9,11 +9,17 @@
 
 ## create react app
 
-[参考][url1]
+[github地址][url1]
 
 安装
 ```cmd
-npm install -g create-react-app -g
+npm install -g create-react-app
+```
+
+创建项目并运行
+```cmd
+create-react-app PROJECT_NAME
+npm start
 ```
 
 
