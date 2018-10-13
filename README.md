@@ -7,6 +7,11 @@
 * [create react app](#create-react-app)
 * [radium](#radium)
 * [css module](#css-module)
+* [prop-types](#prop-types)
+* [react developer tools](#react-developer-tools)
+* [Http](#Http)
+* [Router](#Router)
+* [Redux](#Redux)
 
 
 ## create react app
@@ -43,6 +48,32 @@ options: {
 },
 ```
 
+## prop-types
+```cmd
+npm install --save prop-types
+```
 
+## react developer tools
+谷歌搜一下就可以了
+
+## Http
+```cmd
+npm install axios --save
+```
+
+## Router
+```cmd
+npm install --save react-router-dom
+```
+
+react-router可以不用安装
+```cmd
+npm install --save react-router
+```
+
+## Redux
+```cmd
+npm install --save redux react-redux
+```
 
 [url1]: https://github.com/facebook/create-react-app
