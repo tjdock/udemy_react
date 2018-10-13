@@ -5,6 +5,8 @@
 ## Table of Contents
 
 * [create react app](#create-react-app)
+* [radium](#radium)
+* [css module](#css-module)
 
 
 ## create react app
@@ -21,6 +23,26 @@ npm install -g create-react-app
 create-react-app PROJECT_NAME
 npm start
 ```
+
+## radium
+```cmd
+npm install --save radium
+```
+
+## css module
+```cmd
+npm run eject
+```
+
+config/webpack.config.xxx.js加入这段代码
+```js
+options: {
+  importLoaders: 1,
+  modules:true,
+  localIdentName:'[name]__[local]__[hash:base64:5]'
+},
+```
+
 
 
 [url1]: https://github.com/facebook/create-react-app
