@@ -32,3 +32,7 @@ Http
 
 Router (react-router可以不用安装)
 >npm install --save react-router react-router-dom
+
+Redux
+>npm install --save redux
+>npm install --save react-redux
