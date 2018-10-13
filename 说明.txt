@@ -1,4 +1,4 @@
-create react app
+**create react app**
 https://github.com/facebook/create-react-app
 
 >npm install -g create-react-app -g
@@ -6,10 +6,10 @@ https://github.com/facebook/create-react-app
 >create-react-app PROJECT_NAME
 >npm start
 
-radium
+**radium**
 >npm install --save radium
 
-css module
+**css module**
 >npm run eject
 
 webpack.js
@@ -20,19 +20,18 @@ options: {
 },
 
 
-prop-types
+**prop-types**
 >npm install --save prop-types
 
 
-google for it
+**google for it**
 react developer tools
 
-Http
+**Http**
 >npm install axios --save
 
-Router (react-router可以不用安装)
+**Router (react-router可以不用安装)**
 >npm install --save react-router react-router-dom
 
-Redux
->npm install --save redux
->npm install --save react-redux
+**Redux**
+>npm install --save redux react-redux
