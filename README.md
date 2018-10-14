@@ -73,7 +73,7 @@ npm install --save react-router
 
 ## Redux
 ```cmd
-npm install --save redux react-redux
+npm install --save redux react-redux redux-thunk
 ```
 
 [url1]: https://github.com/facebook/create-react-app
