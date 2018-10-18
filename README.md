@@ -12,6 +12,8 @@
 * [Http](#Http)
 * [Router](#Router)
 * [Redux](#Redux)
+* [Build](#Build)
+* [Webpack 目前没有运行起来](#Webpack)
 
 
 ## create react app
@@ -74,6 +76,22 @@ npm install --save react-router
 ## Redux
 ```cmd
 npm install --save redux react-redux redux-thunk
+```
+
+## Build
+```cmd
+npm run build
+```
+
+## Webpack
+```cmd
+npm init
+npm install --save-dev webpack webpack-dev-server
+npm install --save react react-dom react-router-dom
+npm install --save-dev babel-loader babel-core babel-preset-react babel-preset-env babel-plugin-syntax-dynamic-import babel-preset-stage-2
+npm install --save-dev css-loader style-loader postcss-loader url-loader file-loader autoprefixer
+npm install --save-dev html-webpack-plugin
+npm install --save-dev rimraf
 ```
 
 [url1]: https://github.com/facebook/create-react-app
