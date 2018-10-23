@@ -13,6 +13,7 @@
 * [Router](#Router)
 * [Redux](#Redux)
 * [Sega](#Sega)
+* [Animation](#Animation)
 * [Build](#Build)
 * [Webpack 目前没有运行起来](#Webpack)
 
@@ -50,6 +51,11 @@ options: {
   localIdentName:'[name]__[local]__[hash:base64:5]'
 },
 ```
+新版react可以不用eject
+命名需加入module前缀，例如：App.module.css,Header.module.scss
+```cmd
+npm install node-sass --save-dev
+```
 
 ## prop-types
 ```cmd
@@ -81,6 +87,11 @@ npm install --save redux react-redux redux-thunk redux-saga
 
 ## Sage
 [API][url2]
+
+## Animation
+```cmd
+npm install react-transition-group --save
+```
 
 ## Build
 ```cmd
