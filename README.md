@@ -12,6 +12,7 @@
 * [Http](#Http)
 * [Router](#Router)
 * [Redux](#Redux)
+* [Sega](#Sega)
 * [Build](#Build)
 * [Webpack 目前没有运行起来](#Webpack)
 
@@ -75,8 +76,11 @@ npm install --save react-router
 
 ## Redux
 ```cmd
-npm install --save redux react-redux redux-thunk
+npm install --save redux react-redux redux-thunk redux-saga
 ```
+
+## Sage
+[API][url2]
 
 ## Build
 ```cmd
@@ -95,3 +99,4 @@ npm install --save-dev rimraf
 ```
 
 [url1]: https://github.com/facebook/create-react-app
+[url2]: https://redux-saga.js.org/
