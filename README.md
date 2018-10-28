@@ -94,6 +94,9 @@ npm install react-transition-group --save
 ```
 
 ## Build
+根目录添加.env文件，写入：
+GENERATE_SOURCEMAP=false
+
 ```cmd
 npm run build
 ```
